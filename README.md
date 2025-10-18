@@ -4,12 +4,6 @@
 
 <h3 align="center">✨ Frontend Developer | 💻 Open Source Enthusiast | 🌸 Hacktoberfest Contributor</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishnadumbre2006-art&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
-  <a href="https://github.com/krishnadumbre2006-art?tab=followers"><img src="https://img.shields.io/github/followers/krishnadumbre2006-art?label=Followers&style=social" alt="followers" /></a>
-</p>
----
-
 ### 🏆 My Holopin Badges
 [![An image of @krishnadumbre2006art's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishnadumbre2006art)](https://holopin.io/@krishnadumbre2006art)
 

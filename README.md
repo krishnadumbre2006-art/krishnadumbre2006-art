@@ -4,7 +4,7 @@
 
 <h3 align="center">✨ Frontend Developer | 💻 Open Source Enthusiast | 🌸 Hacktoberfest Contributor</h3>
 
-### 🏆 My Holopin Badges
+### 🏆 Holopin Badges
 [![An image of @krishnadumbre2006art's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishnadumbre2006art)](https://holopin.io/@krishnadumbre2006art)
 
 ---

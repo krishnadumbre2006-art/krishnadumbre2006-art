@@ -17,6 +17,11 @@
 </p>
 
 ---
+### Connect 
+<a href="https://www.linkedin.com/in/krishnadumbre/" target="_blank" rel="noopener noreferrer">🔗 Linkedin</a> | 
+<a href="https://www.instagram.com/_.0507_krishna.d/" target="_blank" rel="noopener noreferrer">📸 Instagram</a>
+
+---
 
 ⭐ **Fun fact:** I love working on creative UI designs and exploring new frontend trends!
 

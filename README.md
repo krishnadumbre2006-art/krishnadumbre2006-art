@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnadumbre2006-art&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnadumbre2006-art&theme=tokyonight" alt="GitHub streak" height="165" />
+  
 </p>
 
 ---

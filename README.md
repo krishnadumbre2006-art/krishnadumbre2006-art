@@ -13,6 +13,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnadumbre2006-art&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnadumbre2006-art&show_icons=true&hide_title=true&count_private=true&theme=radical)  
   
 </p>
 
